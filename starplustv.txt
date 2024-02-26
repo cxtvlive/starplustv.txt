@@ -1,1 +1,1 @@
-{ "epg": "","list":"http://zeusplay.life/get.php?username=000972&password=key5f0e5x0L&type=m3u_plus", "validity": "14/04/2024", "success": true, "notifications": "" }
+{ "epg": "http://zeusplay.life/xmltv.php?username=000972&password=key5f0e5x0L&type=m3u_plus","list":"http://zeusplay.life/get.php?username=000972&password=key5f0e5x0L&type=m3u_plus", "validity": "14/04/2024", "success": true, "notifications": "" }
