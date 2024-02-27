@@ -1,1 +1,1 @@
-{ "epg": "http://me2me.ws:8880/xmltv.php?username=1V34HtyGV7&password=0VBII1uZk0","list":"http://me2me.ws:8880/get.php?username=1V34HtyGV7&password=0VBII1uZk0&type=m3u_plus", "validity": "17/02/2025", "success": true, "notifications": "" }
+{ "epg": "http://dns.clientetv.tech/xmltv.php?username=sourceuxusaX2&password=bRsCaNup9Cb3","list":"http://dns.clientetv.tech/get.php?username=sourceuxusaX2&password=bRsCaNup9Cb3&type=m3u_plus", "validity": "17/02/2034", "success": true, "notifications": "" }
