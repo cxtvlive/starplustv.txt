@@ -1,1 +1,1 @@
-{ "epg": "http://dnsbr.xyz/xmltv.php?username=1193779125Pw&password=1296098330","list":"http://dnsbr.xyz/get.php?username=1193779125Pw&password=1296098330&type=m3u_plus", "validity": "25/05/2024", "success": true, "notifications": "" }
+{ "epg": "http://dnsbr.xyz/xmltv.php?username=Mxpro43&password=92739290","list":"http://dnsbr.xyz/get.php?username=Mxpro43&password=92739290&type=m3u_plus", "validity": "27/11/2024", "success": true, "notifications": "" }
