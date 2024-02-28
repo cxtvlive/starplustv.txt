@@ -1,1 +1,1 @@
-{ "epg": "http://dnsbr.xyz/xmltv.php?username=Mxpro43&password=92739290","list":"http://dnsbr.xyz/get.php?username=Mxpro43&password=92739290&type=m3u_plus", "validity": "27/11/2024", "success": true, "notifications": "" }
+{ "epg": "http://dnsbr.xyz/xmltv.php?username=Mxpro43&password=92739290","list":"http://dnsbr.xyz/get.php?username=Mxpro43&password=92739290&type=m3u_plus", "validity": "27/11/2024", "success": true, "notifications": "Nova atualização disponível! telegram t.me/scorpiontv_apk" }
